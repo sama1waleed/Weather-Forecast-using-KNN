@@ -1,5 +1,5 @@
 # Weather-Forecast-using-KNN
- Weather Forecast using KNN algorithm
+ 
 # Abstract 
  focus on the K nearest neighbor technology, and use it to predict weather conditions by applying it to a dataset.
 # Evaluation
